@@ -1,5 +1,5 @@
 # sublime text JSTL snippet and autocomplete attribute
-Basic support for sublime text jstl autocomplete of the standard core libs costructor
+Basic support for sublime text jstl autocomplete of the standard core libs costructor plus some non-core libs (spring)
 
 #### File and libs support
 * jsp/tag
@@ -15,9 +15,12 @@ The easiest way to install is to use the Package Control extension. Once this is
 Within Sublime Text, click Preferences > Browse Packages... and create a folder named JSTL-snippet. Clone this repo or add the files into the folder.
 
 #### develop note:
-* 
+* works with JSTL syntax highlight https://github.com/eparisio/st3-jstl-syntax-highlight
+* if i miss some tag or there is some error please open an issue
+* credits to https://github.com/JeroenVdb/jstl-sublime-snippets for starting the works, i have resolved some errors and added all the missing tags and libs, plus added to package control
 
 ### TO DO:
+
 
 ### Contribute
 
