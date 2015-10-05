@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<c:forTokens items="\$\{${1}\}" delims="{2}" var="{3}">
+	{4}
+</c:forTokens>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>c:</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.jsp</scope>
+</snippet>

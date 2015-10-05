@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<tiles:insertAttribute name="${1:name}" ignore="${2:true}" />
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tiles:</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.jsp</scope>
+</snippet>

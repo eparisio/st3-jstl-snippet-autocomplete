@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<fmt:setLocale value="${1:language}" scope="${2:page}" />
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fmt:</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.jsp</scope>
+</snippet>

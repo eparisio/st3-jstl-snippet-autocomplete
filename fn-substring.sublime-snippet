@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\${fn:substring(${1:string}, ${2:start}, ${3:stop})}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fn:</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.jsp</scope>
+</snippet>

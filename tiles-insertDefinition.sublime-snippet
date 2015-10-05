@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<tiles:insertDefinition name="${1:name}">
+	<tiles:putAttribute name="${2:name}" value="${3:value}" />
+</tiles:insertDefinition>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tiles:</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.jsp</scope>
+</snippet>

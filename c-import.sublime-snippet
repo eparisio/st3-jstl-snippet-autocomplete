@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<c:import url="{1}" charEncoding="utf-8">
+    {2}
+</c:import>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>c:</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.jsp</scope>
+</snippet>

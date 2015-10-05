@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<sec:authorize access="${1:role}">
+	${2}
+</sec:authorize>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sec:</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.jsp</scope>
+</snippet>

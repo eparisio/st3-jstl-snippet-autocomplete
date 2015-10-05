@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[<%-- ${1:$SELECTION} --%>]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>jstl_comment</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.jsp</scope>
+    <scope>source.tag</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>JSTL comment</description>
+</snippet>

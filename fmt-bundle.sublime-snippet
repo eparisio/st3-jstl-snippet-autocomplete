@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<fmt:bundle basename="${1}" prefix="${2}">
+   ${3}
+</fmt:bundle>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fmt:</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.jsp</scope>
+</snippet>
