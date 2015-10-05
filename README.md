@@ -1,9 +1,16 @@
 # sublime text JSTL snippet and autocomplete attribute
 Basic support for sublime text jstl autocomplete of the standard core libs costructor plus some non-core libs (spring)
 
-#### File and libs support
-* jsp/tag
-* fn, x, sql, fmt, c, spring, sec, pe, tiles
+#### Info
+* jsp/tag file support
+* fn, x, sql, fmt, c, spring, sec, pe, tiles tags support
+* autocomplete for parameters not present in the base snippets
+
+start to digit one of the above taglib to view all tags associated to it.
+
+base jstl comment add a shortcut to your key-binding user file:
+{ "keys": ["ctrl+alt+q"], "command": "insert_snippet", "args": { "name": "jstl-comment.sublime-snippet" } },
+
 
 #### Installation
 ##### Using Package Manager
