@@ -10,7 +10,7 @@ start to digit one of the above taglib to view all tags associated to it.
 
 base jstl comment add a shortcut to your key-binding user file:
 
-{ "keys": ["ctrl+alt+q"], "command": "insert_snippet", "args": { "name": "jstl-comment.sublime-snippet" } },
+```{ "keys": ["ctrl+alt+q"], "command": "insert_snippet", "args": { "name": "jstl-comment.sublime-snippet" } }```
 
 
 #### Installation
