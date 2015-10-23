@@ -1,1 +1,14 @@
 
+New features:
+
+Update
+==========================================
+
+* add "arguments" attribute autocomplete
+
+
+Contribute
+==========
+
+If you want contribute follow the project at: 
+  https://github.com/eparisio/st3-jstl-snippet-autocomplete
