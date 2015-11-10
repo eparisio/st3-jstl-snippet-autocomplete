@@ -3,7 +3,7 @@
 \${fn:join(${1:array}, ${2:delimiter})}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>fn:</tabTrigger>
+	<tabTrigger>fn:join</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html.jsp</scope>
 </snippet>

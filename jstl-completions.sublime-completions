@@ -57,5 +57,6 @@
         { "trigger": "startRow", "contents": "startRow=\"$1\"" },
         { "trigger": "sql", "contents": "sql=\"$1\"" },
         { "trigger": "isolation", "contents": "isolation=\"$1\"" },
+        { "trigger": "arguments", "contents": "arguments=\"$1\"" },
     ]
 }

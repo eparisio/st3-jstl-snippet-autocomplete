@@ -3,7 +3,7 @@
 <sql:setDataSource var="${1}" driver="${2}" url="${3}" user="${4}"  password="${5}"/>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>sql:</tabTrigger>
+	<tabTrigger>sql:setDataSource</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html.jsp</scope>
 </snippet>
