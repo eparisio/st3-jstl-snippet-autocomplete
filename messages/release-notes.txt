@@ -1,0 +1,20 @@
+New features:
+
+Update
+==========================================
+
+* add support for single autocomplete after typing all the tag (eg: c:choose -> tab, do choose tag)
+* add "arguments" attribute
+
+Other JSP/JSTL package
+=======================================
+
+ * jstl syntax highlight (JSTL syntax)
+ 
+	https://github.com/eparisio/st3-jstl-syntax-highlight
+
+Contribute
+==========
+
+If you want contribute follow the project at: 
+  https://github.com/eparisio/st3-jstl-snippet-autocomplete
