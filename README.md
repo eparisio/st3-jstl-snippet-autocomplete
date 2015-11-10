@@ -8,8 +8,11 @@ Basic support for sublime text jstl autocomplete of the standard core libs costr
 
 start to digit one of the above taglib to view all tags associated to it.
 
-base jstl comment add a shortcut to your key-binding user file:
-{ "keys": ["ctrl+alt+q"], "command": "insert_snippet", "args": { "name": "jstl-comment.sublime-snippet" } },
+jstl comment snippet, add a shortcut to your key-binding user file:
+
+```{ "keys": ["ctrl+alt+q"], "command": "insert_snippet", "args": { "name": "Packages/YourPath/jstl-comment.sublime-snippet" } }```
+
+where "YourPath" is the installation directory if you install it manually, than set the keybind as you want
 
 
 #### Installation
@@ -22,7 +25,7 @@ The easiest way to install is to use the Package Control extension. Once this is
 Within Sublime Text, click Preferences > Browse Packages... and create a folder named JSTL-snippet. Clone this repo or add the files into the folder.
 
 #### develop note:
-* works with JSTL syntax highlight https://github.com/eparisio/st3-jstl-syntax-highlight
+* highlight JSTL syntax: https://github.com/eparisio/st3-jstl-syntax-highlight , from package control: JSTL syntax highlight
 * if i miss some tag or there is some error please open an issue
 * credits to https://github.com/JeroenVdb/jstl-sublime-snippets for starting the works, i have resolved some errors and added all the missing tags and libs, plus added to package control
 
