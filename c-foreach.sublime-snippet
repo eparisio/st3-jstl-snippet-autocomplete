@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<c:forEach items="\$\{${1}\}" var="${2}" varStatus="${3}" begin="\$\{${4}\}" end="\$\{${5}\}">
+<c:forEach items="\$\{${1}\}" var="${2}" varStatus="${3}" begin="${4}" end="${5}">
 	${6}
 </c:forEach>
 ]]></content>

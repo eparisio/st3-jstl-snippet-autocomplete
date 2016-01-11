@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\${fn:contains(${1:filename}, ${2:searchString})
+fn:contains(${1:filename}, ${2:searchString})
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fn:contains</tabTrigger>

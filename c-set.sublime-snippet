@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<c:set var="${1}" value="\$\{${2}\}" />
+<c:set var="${1}" value="${2}" />
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>c:set</tabTrigger>

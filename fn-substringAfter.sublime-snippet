@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\${fn:substringAfter(${1:string}, ${2:from})}
+fn:substringAfter(${1:string}, ${2:from})
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fn:substringAfter</tabTrigger>

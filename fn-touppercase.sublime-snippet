@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\${fn:toUpperCase(${1:string})}
+fn:toUpperCase(${1:string})
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fn:toUpperCase</tabTrigger>

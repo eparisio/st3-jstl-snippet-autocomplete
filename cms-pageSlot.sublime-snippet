@@ -1,9 +1,11 @@
 <snippet>
 	<content><![CDATA[
-fn:escapeXml(${1:string})
+<cms:pageSlot position="${0}" var="feature">
+	<cms:component component="\$\{feature\}"/>
+</cms:pageSlot>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>fn:escapeXml</tabTrigger>
+	<tabTrigger>cms:pageSlot</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html.jsp</scope>
 </snippet>

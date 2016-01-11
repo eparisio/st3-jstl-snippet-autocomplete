@@ -3,8 +3,10 @@ New features:
 Update
 ==========================================
 
-* add support for single autocomplete after typing all the tag (eg: c:choose -> tab, do choose tag)
-* add "arguments" attribute
+* add cms:pageslot
+* correct some error
+* removed ${} wrapper from FN: snippet
+* removed ${} from c:set
 
 Other JSP/JSTL package
 =======================================

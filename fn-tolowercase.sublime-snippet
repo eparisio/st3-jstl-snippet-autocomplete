@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\${fn:toLowerCase(${1:string})}
+fn:toLowerCase(${1:string})
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fn:toLowerCase</tabTrigger>
