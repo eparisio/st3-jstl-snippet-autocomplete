@@ -1,12 +1,7 @@
-New features:
-
 Update
 ==========================================
 
-* add cms:pageslot
-* correct some error
-* removed ${} wrapper from FN: snippet
-* removed ${} from c:set
+* add new syntax scope
 
 Other JSP/JSTL package
 =======================================
