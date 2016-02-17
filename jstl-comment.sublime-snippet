@@ -6,5 +6,5 @@
     <scope>source.jsp</scope>
     <scope>source.tag</scope>
     <!-- Optional: Description to show in the menu -->
-    <description>JSTL comment</description>
+    <description>JSTL comment,text.html.jstl</description>
 </snippet>
