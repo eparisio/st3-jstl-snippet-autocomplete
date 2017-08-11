@@ -1,7 +1,7 @@
 Update
 ==========================================
 
-* add new syntax scope
+* ADD comment block command (same as other language comments)!
 
 Other JSP/JSTL package
 =======================================

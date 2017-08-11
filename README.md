@@ -8,12 +8,7 @@ Basic support for sublime text jstl autocomplete of the standard core libs costr
 
 start to digit one of the above taglib to view all tags associated to it.
 
-jstl comment snippet, add a shortcut to your key-binding user file:
-
-```{ "keys": ["ctrl+alt+q"], "command": "insert_snippet", "args": { "name": "Packages/YourPath/jstl-comment.sublime-snippet" } }```
-
-where "YourPath" is the installation directory if you install it manually, than set the keybind as you want
-
+jstl comment **included**!
 
 #### Installation
 ##### Using Package Manager
