@@ -1,7 +1,7 @@
 # sublime text JSTL snippet and autocomplete attribute
 Basic support for sublime text jstl autocomplete of the standard core libs costructor plus some non-core libs (spring)
 
-#### Info
+### Info
 * jsp/tag file support
 * fn, x, sql, fmt, c, spring, sec, pe, tiles tags support
 * autocomplete for parameters not present in the base snippets
@@ -10,7 +10,7 @@ start to digit one of the above taglib to view all tags associated to it.
 
 jstl comment **included**!
 
-#### Installation
+### Installation
 ##### Using Package Manager
 
 The easiest way to install is to use the Package Control extension. Once this is installed, simply select 'Package Control: Install Package' from the command pallette and search for 'JSTL autocomplete'.
